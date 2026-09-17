@@ -1,0 +1,51 @@
+﻿Order_ID,Customer,Product,Quantity,Price,Status
+ORD-1001,Ahmed Hassan,Wireless Mouse,2,18.5,Pending
+ORD-1002,Sara Ali,Mechanical Keyboard,1,72.0,Processing
+ORD-1003,Omar Khaled,USB-C Hub,3,34.99,Shipped
+ORD-1004,Mariam Adel,Laptop Stand,1,29.5,Delivered
+ORD-1005,Youssef Samir,Webcam HD,2,44.0,Cancelled
+ORD-1006,Nour Mohamed,Bluetooth Speaker,1,55.75,Pending
+ORD-1007,Mahmoud Tarek,External SSD 1TB,2,109.99,Delivered
+ORD-1008,Lina Ashraf,Power Bank 20000mAh,4,31.25,Processing
+ORD-1009,Karim Mostafa,Noise Cancelling Headphones,1,129.0,Shipped
+ORD-1010,Hana Ibrahim,Smart Watch,2,84.5,Returned
+ORD-1011,Ali Wael,USB Flash Drive 128GB,5,14.75,Delivered
+ORD-1012,Salma Nabil,Portable Monitor,1,189.99,Pending
+ORD-1013,Tamer Fathy,Gaming Mouse,3,39.5,Processing
+ORD-1014,Aya Hossam,Phone Tripod,2,17.99,Shipped
+ORD-1015,Mohamed Emad,Office Chair,1,215.0,Delivered
+ORD-1016,Farah Sameh,Desk Lamp,3,24.25,Cancelled
+ORD-1017,Amr Salah,Ethernet Cable 10m,6,9.5,Delivered
+ORD-1018,Dina Magdy,Wireless Charger,2,26.0,Pending
+ORD-1019,Mostafa Ahmed,27-inch Monitor,2,249.99,Processing
+ORD-1020,Reem Khalil,Laptop Backpack,1,48.0,Shipped
+ORD-1021,Hassan Reda,HDMI Cable,8,7.25,Delivered
+ORD-1022,Nada Sherif,Tablet,1,329.0,Returned
+ORD-1023,Ziad Adel,Mini Projector,2,149.5,Pending
+ORD-1024,Rana Yasser,Ring Light,3,35.0,Processing
+ORD-1025,Fady George,Gaming Headset,2,67.9,Delivered
+ORD-1026,Menna Essam,USB Microphone,1,89.99,Shipped
+ORD-1027,Khaled Osama,Router Wi-Fi 6,2,119.0,Pending
+ORD-1028,Jana Mostafa,Smartphone Case,5,12.49,Cancelled
+ORD-1029,Wael Nasser,Graphics Tablet,1,159.0,Delivered
+ORD-1030,Yara Ahmed,Portable Bluetooth Keyboard,2,42.75,Processing
+ORD-1031,Samir Hamdy,Surge Protector,4,19.99,Shipped
+ORD-1032,Mona Tarek,Fitness Tracker,3,49.5,Delivered
+ORD-1033,Hazem Ali,Laptop Cooling Pad,2,32.0,Pending
+ORD-1034,Rania Said,Smart Plug,6,16.25,Processing
+ORD-1035,Adel Mahmoud,NAS Storage 4TB,1,399.99,Delivered
+ORD-1036,Eman Hani,Ergonomic Mouse,2,36.5,Returned
+ORD-1037,Sherif Amin,Action Camera,1,179.0,Shipped
+ORD-1038,Mai Adel,Digital Pen,4,22.99,Pending
+ORD-1039,Bassem Nabil,Portable Hard Drive 2TB,2,94.75,Delivered
+ORD-1040,Heba Samir,LED Monitor Light,3,28.5,Processing
+ORD-1041,Ayman Khaled,Smart Home Camera,2,69.99,Cancelled
+ORD-1042,Nada Emad,Wireless Earbuds,4,39.95,Shipped
+ORD-1043,Islam Fathy,Desktop Speakers,1,58.0,Delivered
+ORD-1044,Maha Youssef,E-reader,2,139.0,Pending
+ORD-1045,Rami Ashraf,Gaming Controller,3,54.99,Processing
+ORD-1046,Samar Hassan,USB-C Charging Cable,10,8.99,Delivered
+ORD-1047,Hossam Wael,Network Switch 8-Port,2,46.5,Shipped
+ORD-1048,Dalia Mostafa,Smart LED Bulb,7,11.75,Pending
+ORD-1049,Nader Samir,Mechanical Numeric Keypad,2,27.0,Returned
+ORD-1050,Laila Ahmed,Document Scanner,1,229.99,Delivered
